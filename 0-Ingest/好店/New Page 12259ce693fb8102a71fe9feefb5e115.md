@@ -1,0 +1,8 @@
+# New Page
+
+Owner: Xavier Ma
+
+<aside>
+💡 Notion Tip: When creating a page, it's important to give it a clear title and provide some content. This could include verifying the information, summarizing the topic, or sharing your thoughts and opinions on something that matters to you.
+
+</aside>

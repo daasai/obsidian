@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "e7a344294c5a550d",
+    "type": "split",
+    "children": [
+      {
+        "id": "060e28a535ca308b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c303b5edb278d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Distribute/DAAS/Bot/BP/商业计划书：Project Nexus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "商业计划书：Project Nexus"
+            }
+          },
+          {
+            "id": "8ce541dad9fa853d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Distribute/DAAS/Bot/Spec/v1.2/产品需求文档 (PRD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "产品需求文档 (PRD)"
+            }
+          },
+          {
+            "id": "23f413289915b918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Discover/1-Personal/Meta 认知.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meta 认知"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a68e449d6cea6979",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d29ef97413f94a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab727c28648b238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "30cd56cde1be3d14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6068b6b76b6e68db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 436.5
+  },
+  "right": {
+    "id": "87d9fcf3e2793ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "689975f7988e82a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71fc96d2d66b234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "19a97aaba3d59221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "4bf01f23edc627fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5e8d8e57164f6d01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d82ccd4bd3fc79b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "23f413289915b918",
+  "lastOpenFiles": [
+    "2-Distribute/DAAS/Bot/BP/商业计划书：Project Nexus.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.2/产品需求文档 (PRD).md",
+    "3-Discover/1-Personal/Meta 认知.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.2",
+    "3-Discover/1-Personal/Refresh.md",
+    "3-Discover/1-Personal/高丽明 AI是新世界的氧气.md",
+    "2-Distribute/DAAS/Gemini Gems Prompt.md",
+    "3-Discover/1-Personal/Acc bakup.md",
+    "Backup-codes-xarles.ma.txt",
+    "Backup-codes-uwexiqen820.txt",
+    "0-Ingest/AI+/给大学生（龙龙）的学习建议.md",
+    "0-Ingest/AI+/未命名.md",
+    "2-Distribute/DAAS/Bot/Spec/DAAS v1.x 产品规格说明书.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.1/Nexus-AGI v1.1 User Stories ：The Creator Pipeline.md",
+    "2-Distribute/DAAS/Bot/BP/DAAS - 产品终极形态备忘录.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.1/01_domain_model_v1.1.md.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.1/03_agent_behavior_v1.1.md.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.1/02_ui_architecture_v1.1.md.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.0/Nexus-AGI v1.0.1 Feature List - The Creator Pilot.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.1",
+    "2-Distribute/DAAS/Bot/Spec/v1.0/Nexus-AGI v1.0.1 Database Schema Specification (Final Lock).md",
+    "2-Distribute/DAAS/Bot/Spec/v1.0/Nexus-AGI v1.0.0 Feature List - The Creator Pilot.md",
+    "2-Distribute/DAAS/Bot/Spec/v1.0/Nexus-AGI (DAAS Bot) v1.0 产品技术规格说明书 (20260211).md",
+    "2-Distribute/DAAS/Bot/Spec/v0.5/Nexus-AGI (DAAS Bot) v0.5 交互与功能规格书.md",
+    "2-Distribute/DAAS/Bot/Spec/v0.5/DAAS Bot v0.5 (Nexus-AGI) 产品规格说明书.md",
+    "高丽明 AI是新世界的氧气.md",
+    "2-Distribute/DAAS/Bot/BP/The Cowork Ontology (完整版).md",
+    "2-Distribute/DAAS/Bot/Spec/v1.0",
+    "2-Distribute/DAAS/Bot/Spec/v0.5"
+  ]
+}

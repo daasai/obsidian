@@ -1,0 +1,6 @@
+﻿Category,Desc,Priority,Status,Type
+信息收集-爬虫,从专业门户网站转采信息,P1,Not started,Collaboration
+知识展示-鸟瞰视图,展示知识网络全景,P1,Not started,Visualize
+知识存储,结构化知识存储功能（由知识分析模块输入）,P0,Not started,Storage
+知识分析,海量信息的分类、关联、打标与分级,P0,Not started,Processing
+信息分享,在社交媒体的分享工具集,P0,Not started,Sharing
