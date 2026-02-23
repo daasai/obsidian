@@ -5,7 +5,7 @@
 
 **文档状态:** 正式版 (v1.0)
 
-**产品一号位:** AlphaCo
+**产品一号位:** AlphaCo 
 
 ## 一、 执行摘要与 Alpha 版使命 (Executive Summary)
 
